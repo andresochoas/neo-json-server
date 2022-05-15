@@ -29,6 +29,7 @@ function deep(json, map = new Map(), parent = "") {
                 deep(item, map, parent + "*.");
             }
         } else {
+            map.set(parent, {type: "object", properties: []});
             const keys = Object.keys(json);
             for (const index in keys) {
                 const key = keys[index], value = json[key];
