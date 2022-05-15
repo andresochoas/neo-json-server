@@ -116,5 +116,5 @@ http.createServer((req, res) => {
 
     res.end();
 }).listen(3000, () => {
-    console.log("Running json-server...");
+    console.log("Running on http://localhost:3000");
 })
