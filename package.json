@@ -1,6 +1,6 @@
 {
   "name": "@andresochoas/simple-json-server",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple json server",
   "main": "index.js",
   "bin": {
