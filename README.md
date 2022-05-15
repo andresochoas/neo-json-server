@@ -1,7 +1,7 @@
 # neo-json-server
 ### How to install
 ~~~bash
-sudo npm -g install @andresochoas/neo-json-server
+sudo npm -g install neo-json-server
 ~~~
 ### How to use
 ~~~bash
