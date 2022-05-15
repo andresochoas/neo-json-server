@@ -1,27 +1,24 @@
 {
-  "name": "@andresochoas/simple-json-server",
+  "name": "neo-json-server",
   "version": "0.0.5",
-  "description": "A simple json server",
+  "description": "A new json server",
   "main": "index.js",
   "bin": {
-    "sjs": "./index.js"
+    "njs": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/andresochoas/simple-json-server.git"
+    "url": "git://github.com/andresochoas/neo-json-server.git"
   },
   "bugs": {
-    "url": "https://github.com/andresochoas/simple-json-server/issues",
+    "url": "https://github.com/andresochoas/neo-json-server/issues",
     "email": "hey@andresochoa.co"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
-  "homepage": "https://github.com/andresochoas/simple-json-server",
+  "homepage": "https://github.com/andresochoas/neo-json-server",
   "keywords": [],
   "author": "Andrés Ochoa <hey@andresochoa.co> (https://andresochoa.co)",
-  "license": "ISC"
+  "license": "MIT"
 }

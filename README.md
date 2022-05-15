@@ -1,9 +1,9 @@
-# simple-json-server
+# neo-json-server
 ### How to install
 ~~~bash
-sudo npm -g install @andresochoas/simple-json-server --registry=https://npm.pkg.github.com
+sudo npm -g install @andresochoas/neo-json-server
 ~~~
-### How to run
+### How to use
 ~~~bash
 sjs --db db.json
 ~~~
