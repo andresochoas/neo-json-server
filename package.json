@@ -1,5 +1,5 @@
 {
-  "name": "simple-json-server",
+  "name": "@andresochoas/simple-json-server",
   "version": "0.0.1",
   "description": "A simple json server",
   "main": "index.js",
@@ -11,11 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andresochoas/simple-json-server.git"
+    "url": "git://github.com/andresochoas/simple-json-server.git"
   },
   "bugs": {
     "url": "https://github.com/andresochoas/simple-json-server/issues",
     "email": "hey@andresochoa.co"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/andresochoas/simple-json-server",
   "keywords": [],
