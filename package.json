@@ -1,6 +1,6 @@
 {
   "name": "neo-json-server",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A new json server",
   "main": "index.js",
   "bin": {
